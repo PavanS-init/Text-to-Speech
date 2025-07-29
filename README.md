@@ -14,7 +14,8 @@ A high-performance Text-to-Speech (TTS) system built using JavaScript and deep l
 
 🛠️ Customizable: Easily adaptable for different languages, voices, or domains.
 
-⚙️ Configuration
+Configuration
+
 You can adjust the following parameters:
 
 voice: Select from different voice models
